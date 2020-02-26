@@ -1,9 +1,14 @@
-This project is a bug fixing/feature addition challenge for Code Nation students.
+## Pokémon API to compare the characters stats
 
-## Click on the issues tab at the top of this repo to see current issues
+I worked with Mike to fix the issues with the app
 
-Students will need to fork this repo and clone it to their machine.
+We forked a repository and had 7 issues to solve.
 
-Starting state:
+The issues included:
+  Limiting the amount of character cards visible
+  Sorting out the CSS
+  Alphabetise the character names
+  Capatalise the Names
+  Add a predictive search bar
 
-![Starting State](/poke-react-challenge.png)
+Then once they were fixed we added features that we thought were appropriate for the app.
